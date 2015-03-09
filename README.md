@@ -1,4 +1,4 @@
-# UniversalValidators
+# UniversalValidators [![Build Status](https://travis-ci.org/dbackowski/universal_validators.svg)](https://travis-ci.org/dbackowski/universal_validators)
 
 Library to validate: 
 
